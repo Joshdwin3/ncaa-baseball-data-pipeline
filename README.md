@@ -46,6 +46,7 @@ Raw NCAA Box Scores
 - Clean, structured datasets ready for analysis
 - Public-facing Google Sheet for stakeholder access
 - CSV exports for downstream workflows
+- See Output.png
 
 ---
 
