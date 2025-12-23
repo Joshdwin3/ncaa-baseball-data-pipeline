@@ -1,0 +1,61 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.env/
+.envrc/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files (IMPORTANT)
+# =========================
+data/raw/
+data/processed/
+
+# Allow small example data only
+!data/samples/
+
+# =========================
+# Credentials & secrets
+# =========================
+*.key
+*.json
+credentials.json
+service_account.json
+secrets.py
+config/local_settings.py
+
+# =========================
+# Logs & temp files
+# =========================
+logs/
+*.log
+tmp/
+
+# =========================
+# Editor / IDE
+# =========================
+.vscode/
+.idea/
+
